@@ -6,8 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Баг-репорт №1](https://github.com/asloba/java-homework1.1/issues/1)
-* [Баг-репорт №2](https://github.com/asloba/java-homework1.1/issues/2)
+* [В Руководстве использования KeyValidator среди валидных ключей присутствуют невалидные](https://github.com/asloba/java-homework1.1/issues/1)
+* [В Руководстве использования KeyValidator среди невалидных ключей присутствует валидный](https://github.com/asloba/java-homework1.1/issues/2)
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
