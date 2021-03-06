@@ -12,9 +12,11 @@
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
 
-- [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
-- [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-- Баг-репорты [№1](https://github.com/asloba/java-homework1.1/issues/1) и [№2](https://github.com/asloba/java-homework1.1/issues/2)
++ [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
++ [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
++ Баг-репорты:
+    - [В Руководстве использования KeyValidator среди валидных ключей присутствуют невалидные](https://github.com/asloba/java-homework1.1/issues/1) 
+    - [В Руководстве использования KeyValidator среди невалидных ключей присутствует валидный](https://github.com/asloba/java-homework1.1/issues/2)
 
 
 В качестве тестовых данных использовались данные из [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
